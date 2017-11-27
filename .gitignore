@@ -1,4 +1,4 @@
-# Build and Release Folders
+### basic exclusion(s)
 *.accde
 *.laccde
 *.laccdb
